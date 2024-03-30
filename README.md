@@ -1,6 +1,7 @@
 # Hi I'm Mohamed 👋
 
-I am a passionate Junior Data Analyst with a strong foundation in data analysis, statistics, and programming. I am eager to learn and grow in the field of data analytics while contributing positively to projects and teams.
+  I am a passionate Junior Data Analyst with a strong foundation in data analysis, statistics, and programming. I am eager to learn and grow in the field of data analytics while 
+  contributing positively to projects and teams.
 
 ## <span style="color:orange">Skills 👨‍💻</span> 
 - Data analysis
@@ -13,7 +14,7 @@ I am a passionate Junior Data Analyst with a strong foundation in data analysis,
 - Fundamental Business
 
 ## <span style="color:orange">Education</span>
-2017 -2021 Computer science| faculty ofscience| South Valley University
+  2017 -2021 Computer science| faculty ofscience| South Valley University
 
 ## <span style="color:orange">Certifications</span>
 - Business Oriented Data Analysis Diploma in Zanalytics
