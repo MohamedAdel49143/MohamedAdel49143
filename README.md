@@ -1,6 +1,5 @@
 # Hi I'm Mohamed 👋
 
-## <span style="color:orange">About Me</span>
 I am a passionate Junior Data Analyst with a strong foundation in data analysis, statistics, and programming. I am eager to learn and grow in the field of data analytics while contributing positively to projects and teams.
 
 ## <span style="color:orange">Skills 👨‍💻</span> 
