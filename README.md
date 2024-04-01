@@ -11,7 +11,7 @@
 - SQL
 - Excel
 - Power Bi
-- Fundamental Business
+- Business Fundamental 
 
 ## <span style="color:orange">Education</span>
   2017 -2021 Computer science| faculty ofscience| South Valley University
