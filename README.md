@@ -15,15 +15,15 @@
 - SQL BI
 
 ## <span style="color:orange">Internship</span>
-#### May 2024 – present Information Technology Institute (ITI)
+#### May 2024 –   present Information Technology Institute (ITI)
                 Intensive Code camp – Business Intelligence Track
                 - I designed different database modeling and implemented them with Toad
                   Data Modeler and SQL Server as relational database management systems (RDBMS).
                 - Database Development includes functions, stored procedures, and triggers. Also,
                   I Created Interactive Dashboards using MS Power BI, and SSRS. 
                 - Design and Build ETL and data warehousing using SSIS, and SSAS.
-#### Nov 2023 – Jan 2024 Psyliq - Data Analyst Internship 
-#### July 2023 – Jan 2024 Business Oriented Data Analysis Diploma 
+#### Nov 2023 – Jan 2024    Psyliq - Data Analyst Internship 
+#### July 2023 – Jan 2024   Business Oriented Data Analysis Diploma 
                  This training equipped me with essential skills to analyze and visualize data effectively, supporting informed business decision-making through comprehensive training,                   covering: 
                 - Foundations of business analysis and data analysis concepts 
                 - Descriptive statistics and their application in data analysis 
