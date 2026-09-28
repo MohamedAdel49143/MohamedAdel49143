@@ -53,4 +53,4 @@
 
 ## <span style="color:orange">Languages</span>
 - Arabic (Native)
-- English (fluent)
+- English (Excellent)
