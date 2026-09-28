@@ -22,10 +22,8 @@ Results-driven Analytics Engineer and Data Analyst with over 2 years of experien
 ## <span style="color:orange">Internship</span>
 #### May 2024 – Oct 2024 &nbsp;&nbsp;&nbsp;&nbsp;  Information Technology Institute (ITI)
                 Intensive Code camp – Business Intelligence Track
-                - I designed different database modeling and implemented them with Toad
-                  Data Modeler and SQL Server as relational database management systems (RDBMS).
-                - Database Development includes functions, stored procedures, and triggers. Also,
-                  I Created Interactive Dashboards using MS Power BI, and SSRS. 
+                - I designed different database modeling and implemented them with Toad Data Modeler and SQL Server as relational database management systems (RDBMS).
+                - Database Development includes functions, stored procedures, and triggers. Also, I Created Interactive Dashboards using MS Power BI, and SSRS. 
                 - Design and Build ETL and data warehousing using SSIS, and SSAS.
 
 #### July 2023 – Jan 2024 &nbsp;&nbsp;&nbsp;&nbsp;  Business Oriented Data Analysis Diploma 
