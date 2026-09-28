@@ -4,8 +4,7 @@
   <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
 </a>
 
-  I am a passionate Junior Data Analyst with a strong foundation in data analysis, statistics, and programming. I am eager to learn and grow in the field of data analytics while 
-  contributing positively to projects and teams.And I have experience in Data collection, processing, and analysis. I specialize in segmenting customers to understand their behavior,      which allows me to market the right products or services at the appropriate quality and price, track performance, and analyze customer retention.
+Results-driven Analytics Engineer and Data Analyst with over 2 years of experience specializing in automated data orchestration pipelines, data warehousing, and business intelligence solutions. Expert in designing end-to-end Medallion data architectures using Apache Airflow, PySpark, Docker, SQL Server, and PostgreSQL. Proven track record in optimizing database performance, developing dynamic Power BI dashboards, and tailoring ERPNext solutions to boost operational efficiency.
 
 ## <span style="color:orange">Skills 👨‍💻</span> 
 
