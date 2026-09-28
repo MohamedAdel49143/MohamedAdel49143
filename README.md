@@ -1,8 +1,5 @@
 # Hi I'm Mohamed 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/mohamedaadel/)
-<a href="mailto:mohamedadelkasim4@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email Badge"/>
-</a>
 
 Results-driven Analytics Engineer and Data Analyst with over 2 years of experience specializing in automated data orchestration pipelines, data warehousing, and business intelligence solutions. Expert in designing end-to-end Medallion data architectures using Apache Airflow, PySpark, Docker, SQL Server, and PostgreSQL. Proven track record in optimizing database performance, developing dynamic Power BI dashboards, and tailoring ERPNext solutions to boost operational efficiency.
 
