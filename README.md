@@ -16,7 +16,7 @@ Results-driven Analytics Engineer and Data Analyst with over 2 years of experien
                                         ABC/XYZ/FSN)
    - Programming Languages: Python, SQL, JavaScript
 ## <span style="color:orange">Employment</span>
-#### Oct 2024 - Present &nbsp;&nbsp;&nbsp;&nbsp; Al Hassan & El Hussein Pharmacy, Egypt
+#### Oct 2024 - Present &nbsp;&nbsp;&nbsp;&nbsp;Al Hassan & El Hussein Pharmacy, Egypt
               - Architected and implemented end-to-end data workflows using SQL Server Integration Services (SSIS) to automate data extraction and transformation.Streamlined data architecture by connecting centralized SQL Server databases with Power BI to eliminate reporting bottlenecks, reducing dashboard data-refresh time from 20 minutes down to just 2 minutes.
               - Designed and developed an automated order processing and tracking system using Excel and VBA to optimize delivery routes and ensure the fastest fulfillment times. Streamlined data logging workflows to capture operational metrics efficiently and enabled comprehensive exploratory data analysis for supply chain performance.
               - Calculated annual inventory turnover rates, identified non-moving and dead stock items with no sales for over 3 months, and accurately established Reorder Points (ROP) for critical SKUs. Maintained optimal stock levels, minimized carrying costs, and prevented stockouts through data-driven supply chain metrics.
