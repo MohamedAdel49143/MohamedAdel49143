@@ -1,5 +1,6 @@
 # Hi I'm Mohamed 👋
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedaadel/)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-%23FF0000?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@mohamedadel-rx7sx)
 
 Results-driven Analytics Engineer and Data Analyst with over 2 years of experience specializing in automated data orchestration pipelines, data warehousing, and business intelligence solutions. Expert in designing end-to-end Medallion data architectures using Apache Airflow, PySpark, Docker, SQL Server, and PostgreSQL. Proven track record in optimizing database performance, developing dynamic Power BI dashboards, and tailoring ERPNext solutions to boost operational efficiency.
 
