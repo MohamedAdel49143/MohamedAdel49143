@@ -47,5 +47,5 @@ Results-driven Analytics Engineer and Data Analyst with over 2 years of experien
 - LinkedIn: https://www.linkedin.com/in/mohamed-adel-2554a4166/
 
 ## <span style="color:orange">Languages</span>
-- Arabic (Native)
+- Arabic (Native Speaker)
 - English (Excellent)
