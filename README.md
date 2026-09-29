@@ -35,7 +35,7 @@ Results-driven Analytics Engineer and Data Analyst with over 2 years of experien
                 - Proficiency in Microsoft Power Tools: Power Query, Power Pivot, and Power BI, including a specialized course with a full project - PostgreSQL for data analysis -                         Python for data analysis
 
 ## <span style="color:orange">Education</span>
-  2017 - 2021 Computer science | Faculty of Science| Qena University
+  2017 - 2021 Computer Science | Faculty of Science| Qena University
 
 ## <span style="color:orange">Certifications</span>
 - Business Oriented Data Analysis Diploma in Zanalytics
